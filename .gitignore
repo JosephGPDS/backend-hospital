@@ -1,0 +1,2 @@
+# Tenemos que igniorar el node_modules, ya viene por defecto en el package.jason
+node_modules/
